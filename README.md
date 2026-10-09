@@ -45,8 +45,8 @@ Since the original warm-start paper, the line of work has continued: SDP-initial
 
 ## Watch the talk
 
-- Recording: _link to follow_
-- Slides: [PDF](https://qbraid-community-media.s3.amazonaws.com/marketing-site/ibm-warm-start-qaoa-slides.pdf)
+- [Recording on YouTube](https://youtu.be/9yuaGexDEDA) — Daniel covers the theory from 0:00, Ibrahim's live demo of this notebook starts at 21:40
+- [Slides (PDF)](https://qbraid-community-media.s3.amazonaws.com/marketing-site/ibm-warm-start-qaoa-slides.pdf)
 
 ## Credits
 
