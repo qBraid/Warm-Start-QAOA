@@ -1,0 +1,6 @@
+qiskit>=2.0
+qiskit-ibm-runtime>=0.43
+qiskit-addon-opt-mapper
+networkx
+scipy
+matplotlib
